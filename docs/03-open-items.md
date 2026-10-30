@@ -16,6 +16,7 @@ As at 30 Oct 2026. Decisions first, then what is waiting on whom.
 | 15 Oct 2026 | Patent not pursued now. A short consult with Tania's Brisbane patent lawyer is acceptable. | Tania call |
 | 4 Oct 2026 | Start with AutoTriz windscreen film. Own-brand film and cleaner later. | Pocket note |
 | 4 Oct 2026 | Build so a manager can run it. Zac does one site to fund the hire. | Pocket note |
+| 30 Oct 2026 | SightShield is shown on In Line Signs material as a chosen supplier brand, listed with 3M, Hexis, AutoTriz and BUSHWRAPZ wherever brands are mentioned, never as an In Line Signs brand. Applies everywhere brands are mentioned. Website waits until there is film to sell. Logged as decision 908f575f. | This session |
 
 ## Waiting on others
 
@@ -42,7 +43,8 @@ As at 30 Oct 2026. Decisions first, then what is waiting on whom.
 | Agree trial success criteria with Rhani before the trial starts | Rhani |
 | Decide whether Adrian should hold shares before any manager equity is offered | Nothing urgent. |
 | Take the estate note to a lawyer and align it with how shares are issued | Nothing urgent. |
-| Choose the final logo (Round 3 Held vs Round 5 variants) | Nothing. |
+| Choose the mark and wordmark and export a one-colour black cut file for the PPF booth wrap | Name check on ASIC and IP Australia first. Booth up by about 6 Nov 2026. Round 3 Held read too much like the Claude mark; a new round is on the canvas. |
+| Add SightShield to the website brands list (Home, Areas We Service, Pricing Guide) | On hold until SightShield has film to sell. |
 
 ## Open questions nobody has answered yet
 

@@ -13,7 +13,8 @@ SightShield Pty Ltd (name pending ASIC) is Zac Mackenzie's second company. It su
 - Insurance broker to contact: Kathie Barratt, PSC Insurance, Inverell.
 - Safety docs by On Point Safety, Moree, once the name is final.
 - Glencore contact Rhani Hills owes test assemblies and the site's onboarding requirements. Nothing received yet. Zac is calling her on 31 Oct.
-- Branding is background work. It never takes time from anything important.
+- Branding is background work. It never takes time from anything important. Exception: the PPF booth wrap (cut in black vinyl in house, booth up by about 6 Nov 2026) needs the mark and wordmark as a one-colour cut file, after a name check on ASIC and IP Australia.
+- Standing rule (decided 30 Oct 2026, decision 908f575f in the In Line Signs decisions table): on In Line Signs material SightShield is a chosen supplier brand, listed with 3M, Hexis, AutoTriz and BUSHWRAPZ wherever the brands In Line Signs uses are mentioned, never as an In Line Signs brand. Website update is on hold until SightShield has film to sell.
 - Logo direction chosen (Round 3 "Held", carbon and hi-vis lime, Barlow Semi Condensed) but not final.
 - Target: trial as soon as onboarded, fully operational and certified by mid-2028 (end of FY27/28). Six dated stages in `docs/06-stages-roadmap.md`. Stage 0 (site requirements in writing) is the current blocker.
 
