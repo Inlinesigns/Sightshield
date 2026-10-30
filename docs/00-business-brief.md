@@ -1,6 +1,6 @@
 # Sight Shield: business brief
 
-Compiled 30 Oct 2026 from Zac's emails, Pocket voice notes, Claude docs, the logo canvas and SharePoint. Every fact below is traced in `01-source-log.md`. Nothing here is invented; where something is unconfirmed it says so.
+Compiled 30 Oct 2026 from Zac's emails, Pocket voice notes, Claude docs, the logo canvas, SharePoint and the Sight Shield project instructions (`05-project-instructions.md`). Every fact below is traced in `01-source-log.md`. Nothing here is invented; where something is unconfirmed it says so.
 
 ## One line
 
@@ -31,7 +31,7 @@ SightShield Pty Ltd (name pending ASIC) will supply and install optically clear 
 ## The product and service
 
 - **Film.** Optically clear film applied to glass and mirrors. Disperses impact, stops scratching, self-healing top coat heals light swirls, and holds shattered glass together so no sharp fragments spread. Like paint protection film but made for glass.
-- **Starting product.** AutoTriz windscreen film. Later: SightShield-branded film and aftercare, made through the AutoTriz Australia dealer's factory contact in Malaysia (the dealer Zac trained with for ceramic and paint correction). Likely only the top coat changes, tuned for mine dust.
+- **Starting product.** AutoTriz windscreen film, with a second film brand tested alongside it in the trial. Later: SightShield-branded film and aftercare, made through the AutoTriz Australia dealer's factory contact in Malaysia (the dealer Zac trained with for ceramic and paint correction). Likely only the top coat changes, tuned for mine dust.
 - **Cleaner.** A mine-site-safe cleaner to go with the film, because mirrors on coal sites get cleaned up to six times a day and the dust mars bare glass.
 - **Warranty.** Two years against delamination and loss of optical clarity under normal site cleaning. The film then needs replacing, so each site repeats every two years.
 - **Install method.** Film pre-cut on the plotter into templates per mirror assembly, paired up for installation. No design time and no trimming on site.

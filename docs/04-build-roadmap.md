@@ -1,6 +1,20 @@
 # Build roadmap
 
-What has to exist for Sight Shield to operate, in the order the dependencies allow. This is the "everything needs building" list. It is drawn from the staged plan in the Stage 0 doc, the accountant agenda and what In Line Signs already has that Sight Shield does not. It is a proposal for Zac to edit, not a decision.
+What has to exist for Sight Shield to operate, in the order the dependencies allow. This is the "everything needs building" list. It is drawn from the staged plan in the Stage 0 doc, the accountant agenda, the project's six workstreams (`05-project-instructions.md`) and what In Line Signs already has that Sight Shield does not. It is a proposal for Zac to edit, not a decision.
+
+## How the sections map to the project workstreams
+
+| Project workstream | Sections below |
+| --- | --- |
+| Entity setup | A |
+| Site readiness | B (items 1, 3, 4, 5) |
+| Compliance system | B (items 2, 6), G (item 1) |
+| Product | C |
+| Brand | E |
+| Commercial | D |
+| Not a named workstream | F (Claude-side systems), G (handover readiness) |
+
+The project's order is: company and compliance scaffolding, then trial and cleaner R&D, then brand and name, then proprietary media and full deployment. The immediate goal is the minimum build that gets contractor onboarding done.
 
 ## A. Entity and money (Stage 1, under way)
 
@@ -26,7 +40,7 @@ What has to exist for Sight Shield to operate, in the order the dependencies all
 
 1. Supply agreement or account with the AutoTriz dealer for windscreen film.
 2. Mirror assembly templates: measure the test assemblies, cut files on the plotter, paired kits.
-3. Trial protocol based on the proposed success criteria, with inspection dates and photo log.
+3. Trial protocol based on the proposed success criteria, with inspection dates and photo log. The project and the agenda both say a second film brand is tested alongside AutoTriz, so the protocol needs two arms.
 4. Trial report format that answers the site's yes or no.
 5. Cleaner: specification and sourcing, then SDS.
 6. Later: own-brand film and aftercare through the Malaysian factory contact.

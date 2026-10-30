@@ -12,3 +12,4 @@ This repository is the build home for the business. Start with `CLAUDE.md`, then
 | `docs/02-cowork-audit.md` | Audit of the Claude Cowork account: connectors, plugins, skills, infrastructure |
 | `docs/03-open-items.md` | Decisions made, who owes what, Zac's actions, open questions |
 | `docs/04-build-roadmap.md` | Everything that needs building, in dependency order |
+| `docs/05-project-instructions.md` | The claude.ai project instructions, verbatim, with discrepancies flagged |

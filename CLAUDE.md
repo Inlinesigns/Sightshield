@@ -36,3 +36,4 @@ Zac Mackenzie (founder, 0491 709 002, info@inlinesigns.com.au). Tania Gray (acco
 - `docs/02-cowork-audit.md` what the Claude account has and what Sight Shield lacks
 - `docs/03-open-items.md` decisions, waiting-on list, Zac's actions, open questions
 - `docs/04-build-roadmap.md` the full build list in dependency order
+- `docs/05-project-instructions.md` the claude.ai project instructions, verbatim, with two discrepancies flagged
