@@ -13,3 +13,4 @@ This repository is the build home for the business. Start with `CLAUDE.md`, then
 | `docs/03-open-items.md` | Decisions made, who owes what, Zac's actions, open questions |
 | `docs/04-build-roadmap.md` | Everything that needs building, in dependency order |
 | `docs/05-project-instructions.md` | The claude.ai project instructions, verbatim, with discrepancies flagged |
+| `docs/06-stages-roadmap.md` | Dated six-stage plan to mid-2028 with status against each stage |

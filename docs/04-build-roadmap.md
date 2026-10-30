@@ -14,7 +14,7 @@ What has to exist for Sight Shield to operate, in the order the dependencies all
 | Commercial | D |
 | Not a named workstream | F (Claude-side systems), G (handover readiness) |
 
-The project's order is: company and compliance scaffolding, then trial and cleaner R&D, then brand and name, then proprietary media and full deployment. The immediate goal is the minimum build that gets contractor onboarding done.
+The project's order is: company and compliance scaffolding, then trial and cleaner R&D, then brand and name, then proprietary media and full deployment. The immediate goal is the minimum build that gets contractor onboarding done. The dated six-stage version of this order is in `06-stages-roadmap.md`; sections A to G below are the detailed checklist under those stages (A = Stage 1, B = Stages 0 and 2, C = Stage 3, D and E = Stage 4, F and G = Stage 5).
 
 ## A. Entity and money (Stage 1, under way)
 

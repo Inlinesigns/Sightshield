@@ -34,4 +34,4 @@ Fully operational and certified by around mid-2028 (rest of FY25/26 plus FY26/27
 ## Two things that do not line up with other sources
 
 1. **The $3M figure.** The project says $3M+ over three years at one site. The 15 Oct call with Tania says just over $3M in the last financial year at one site. Same source (Rhani), different period. Confirm in writing before it goes in any pricing or pitch.
-2. **The financial years.** The project says "rest of FY25/26 plus FY26/27". The 4 Oct Pocket note, recorded in FY26/27, says the rest of this financial year and next, which is FY26/27 plus FY27/28 and matches the mid-2028 target. The project wording is probably a year out. Zac to confirm, then correct the project.
+2. **The financial years.** The project says "rest of FY25/26 plus FY26/27". The 4 Oct Pocket note, recorded in FY26/27, says the rest of this financial year and next, which is FY26/27 plus FY27/28 and matches the mid-2028 target. The project wording is probably a year out. The stages roadmap in `06-stages-roadmap.md` confirms mid-2028 is the end of FY27/28. Correct the project text when convenient.
