@@ -23,7 +23,7 @@ Gmail also holds "FW: Company Debt Reminder" (Zac to Tania) which relates to Mac
 | 15 Oct 2026, 7:32 am | Site Shield company setup call | Phone call with Tania. Decisions: no trust, separate company, 120 shares to Zac, funds contributed personally, own Xero, Zac on payroll, workers comp via icare, R&D treatment and record keeping, travel categories, patent consult suggestion, Glencore figures, roll economics, startup costs small. Tania to order the company that day. |
 | 4 Oct 2026, 10:06 am | New mining windscreen protection business | The original idea: product, problem, warranty, own-brand film and cleaner later, ISO goal, 1.75 year build horizon. |
 
-Also relevant, in the "Ideas" space: 21 Oct 2026, "Will and estate planning notes" (Sight Shield equity to six siblings). Its Pocket export (summary, transcript, mind map) is in OneDrive under Documents/Pocket/Conversations/2026-10-20/.
+Also relevant, in the "Ideas" space: 21 Oct 2026, "Will and estate planning notes" (succession intention for Sight Shield). Its Pocket export (summary, transcript, mind map) is in OneDrive under Documents/Pocket/Conversations/2026-10-20/.
 
 ## Claude docs and artifacts
 

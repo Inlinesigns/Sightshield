@@ -27,7 +27,7 @@ Zac Mackenzie (founder, 0491 709 002, info@inlinesigns.com.au). Tania Gray (acco
 - Emails: no exclamation marks, no emoji, no markdown, no sign-off, never offer a phone call.
 - When Zac states a new price, cost, rule or process, run the decision skill before changing anything, and ask whether it is a standard or a one-off if unclear. Never log or change anything without his yes.
 - Do not invent product specs, prices or site requirements. Mark anything unconfirmed as unconfirmed.
-- Sensitive: the estate note (Sight Shield to six siblings) stays out of any shared document unless Zac asks.
+- Sensitive: the estate note (Sight Shield succession) stays out of this repo and any shared document unless Zac asks.
 
 ## Repository layout
 

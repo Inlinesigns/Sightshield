@@ -78,7 +78,7 @@ Tagline used on the canvas: "Glass & Mirror Protection". Placeholder quote layou
 
 ## Estate note
 
-A Pocket note on 21 Oct ("Will and estate planning notes") says Zac wants Sight Shield split equally between six siblings on death, with Mackenzie & Brown and personal assets to Adrian Brown. It is a draft intention for a lawyer, not a decision, and it should inform how shares are issued and the constitution is written.
+A Pocket note on 21 Oct ("Will and estate planning notes", Ideas space) records Zac's intention for who should inherit Sight Shield. It is a draft for a lawyer, not a decision. The detail stays in Pocket and OneDrive, not in this repo. It should inform how shares are issued and the constitution is written.
 
 ## People
 
