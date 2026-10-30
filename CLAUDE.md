@@ -12,7 +12,8 @@ SightShield Pty Ltd (name pending ASIC) is Zac Mackenzie's second company. It su
 - 120 shares to Zac alone. No trust. Funds contributed personally, no inter-company loans.
 - Insurance broker to contact: Kathie Barratt, PSC Insurance, Inverell.
 - Safety docs by On Point Safety, Moree, once the name is final.
-- Glencore contact Rhani Hills owes test assemblies and the site's onboarding requirements. Nothing received yet.
+- Glencore contact Rhani Hills owes test assemblies and the site's onboarding requirements. Nothing received yet. Zac is calling her on 31 Oct.
+- Branding is background work. It never takes time from anything important.
 - Logo direction chosen (Round 3 "Held", carbon and hi-vis lime, Barlow Semi Condensed) but not final.
 - Target: trial as soon as onboarded, fully operational and certified by mid-2028 (end of FY27/28). Six dated stages in `docs/06-stages-roadmap.md`. Stage 0 (site requirements in writing) is the current blocker.
 
@@ -38,3 +39,4 @@ Zac Mackenzie (founder, 0491 709 002, info@inlinesigns.com.au). Tania Gray (acco
 - `docs/04-build-roadmap.md` the full build list in dependency order
 - `docs/05-project-instructions.md` the claude.ai project instructions, verbatim, with two discrepancies flagged
 - `docs/06-stages-roadmap.md` the dated six-stage plan to mid-2028 with status against each stage
+- `docs/07-roadmap-audit.md` suggested adjustments to the plan, the Rhani call plan, and this week's actions

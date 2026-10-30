@@ -23,7 +23,7 @@ As at 30 Oct 2026. Decisions first, then what is waiting on whom.
 | --- | --- | --- | --- |
 | ASIC registration, ABN, GST, TFN | Beveridge Carey (Michelle, Tania) | 15 Oct | Chase if nothing by early Nov. Confirm the name that was accepted. |
 | Beveridge Carey invoice for the setup | Tania | 26 Oct | Zac flagged it had not arrived on 28 Oct. |
-| Test mirror assemblies ETA | Rhani Hills | 6 Oct | No reply in the mailbox. Follow up. |
+| Test mirror assemblies ETA | Rhani Hills | 6 Oct | No reply in the mailbox. Zac has a reminder to call Rhani on 31 Oct. Call plan is in `07-roadmap-audit.md`. |
 | Glencore contractor onboarding requirements (prequal platform, inductions, insurance minimums, fitment approval, trial measures) | Rhani Hills | 6 Oct | Zac expected them the week of 15 Oct. Nothing received by email. Fill the Stage 0 requirements table when they arrive. |
 | Insurance broker contact for mine contractors | Tania sent Kathie Barratt's details on 26 Oct | | Done by Tania. Now Zac's action. |
 | Patent lawyer details | Tania | 15 Oct | Not yet sent. |
