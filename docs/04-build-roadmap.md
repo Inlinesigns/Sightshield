@@ -64,7 +64,7 @@ The project's order is: company and compliance scaffolding, then trial and clean
 ## F. Systems on the Claude side
 
 1. Sight Shield working memory (this repo's `CLAUDE.md`, grown into a Brand Brain equivalent).
-2. SharePoint workspace BUSINESS FILES/SightShield/CLAUDE WORKSPACE populated with the same numbered-build layout In Line Signs uses.
+2. OneDrive folder BUSINESS FILES\SightShield set up by workstream (done 12 Nov 2026, see `08-onedrive-layout.md`).
 3. Supabase project and Netlify site when there is an app or website to host.
 4. Skills worth building once the business has rhythm: trial inspection logger, site job sheet and photo log, warranty and re-film reminder, R&D diary capture from Pocket, quote template filler.
 5. Scheduled tasks: weekly chase list for Stage 0 and 1 items while setup is in progress.
