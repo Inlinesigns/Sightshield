@@ -16,6 +16,7 @@ SightShield Pty Ltd (name pending ASIC) is Zac Mackenzie's second company. It su
 - Glencore contact Rhani Hills (rhani.hills@hotmail.com) owes test assemblies and the site's onboarding requirements. Nothing received. She was not available for the 31 Oct call. Email asking for a call or Zoom drafted 12 Nov in Zac's Gmail.
 - PPF booth wrap not done yet.
 - SightShield admin email currently lands in maczac07@gmail.com until a SightShield address exists.
+- Domains registered 12 Nov 2026 through VentraIP (account under maczac07@gmail.com, VIPcontrol): sightshield.com.au, sightshield.au and sightshield.online, 1 year each, expiring 12 Nov 2027. First-year cost $4 (invoice 22568756). sightshield.com is taken (held since 2006). Email address and mail provider not chosen yet; stationery still shows "[email to come]".
 - GitHub branch claude/sight-shield-audit-info-untbti merged to main 12 Nov.
 - Branding is background work. It never takes time from anything important. Exception: the PPF booth wrap (cut in black vinyl in house, booth up by about 6 Nov 2026) needs the mark and wordmark as a one-colour cut file, after a name check on ASIC and IP Australia.
 - Standing rule (decided 30 Oct 2026, decision 908f575f in the In Line Signs decisions table): on In Line Signs material SightShield is a chosen supplier brand, listed with 3M, Hexis, AutoTriz and BUSHWRAPZ wherever the brands In Line Signs uses are mentioned, never as an In Line Signs brand. Website update is on hold until SightShield has film to sell.
