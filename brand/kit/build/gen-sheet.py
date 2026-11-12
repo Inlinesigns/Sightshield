@@ -57,7 +57,7 @@ ul {{ margin: 0; padding-left: 4.5mm; font-size: 8.8pt; line-height: 1.5 }}
     <div>
       <h2>Stacked logo and mark</h2>
       <div class="marks">
-        <div><div class="tile" style="background:{C['carbon']}">{svg('sightshield-logo-stacked-lime-white.svg', w=150)}</div><div class="cap"><b>Stacked.</b> Square spaces: hard hats, profile pictures, decals.</div></div>
+        <div><div class="tile" style="background:{C['carbon']}">{svg('sightshield-logo-stacked-lime-white.svg', w=150)}</div><div class="cap"><b>Stacked.</b> Square spaces: hard hats, profile pictures, decals. Mark is 3x the wordmark height, gap is 1/3 of it.</div></div>
         <div><div class="tile" style="background:#fff;outline:.4pt solid {C['concrete']}">{svg('sightshield-mark-carbon.svg', h=86)}</div><div class="cap"><b>Mark alone.</b> Film-edge labels, icons and small spaces, where people already know the name.</div></div>
         <div><div class="tile" style="background:{C['carbon']}">{svg('sightshield-mark-lime.svg', h=86)}</div><div class="cap"><b>Lime mark on carbon.</b> App icon, social avatar, stickers.</div></div>
       </div>
@@ -75,7 +75,7 @@ ul {{ margin: 0; padding-left: 4.5mm; font-size: 8.8pt; line-height: 1.5 }}
       <div class="cap">Cut vinyl minimums keep the gaps between the rays over about 1 mm. Test cut once at the smallest size before a run.</div>
     </div>
   </div>
-  <div class="foot"><span>SightShield Pty Ltd (name pending ASIC)</span><span>Page 1 of 2</span></div>
+  <div class="foot"><span>SightShield Pty Ltd, ABN 32 703 567 551</span><span>Page 1 of 2</span></div>
 </section>
 
 <section class="page">
@@ -109,6 +109,7 @@ ul {{ margin: 0; padding-left: 4.5mm; font-size: 8.8pt; line-height: 1.5 }}
       <ul>
         <li>Use the supplied files. Do not retype, redraw, stretch, outline or add effects.</li>
         <li>Lime is never text on white. It cannot be read.</li>
+        <li>Colour split on any layout: 60% carbon, 30% concrete, 10% lime.</li>
         <li>Only the colours on this page. One-colour versions for cut vinyl and embroidery.</li>
         <li>On photos, put the logo on a carbon panel or use the white version on a dark area.</li>
       </ul>

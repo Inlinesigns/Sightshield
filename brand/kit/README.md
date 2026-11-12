@@ -18,6 +18,8 @@ Each comes in:
 | Mark alone | `sightshield-mark-<carbon, white, lime>` |
 | Wordmark alone | `sightshield-wordmark-<carbon, white, lime>` |
 
+The stacked logo follows the rule of three (decision 32d54f76, 12 Nov 2026): the mark is 3 times the wordmark height and the gap between them is a third of the wordmark height. Its PNGs are 1600 x 789 px.
+
 `lime-white` is the lime mark with a white wordmark, for carbon backgrounds. The others are one colour throughout, which is what cut vinyl and embroidery need.
 
 The mark is one compound shape: the square with the shield cut out and the rays left in. In Zac's Corel file the shield is a black shape on a white square and its top edge pokes slightly above the square, hidden by the black background. In these files the shield is subtracted properly so one-colour versions cut cleanly.
@@ -31,6 +33,8 @@ The mark is one compound shape: the square with the shield cut out and the rays 
 | Concrete | #C8CCCF | 200 204 207 | 3 1 0 19 | Metamark M7-122 Pale Grey; ImagePerfect IP5710 Pearl Grey Gloss; Hexis S5428B Cloud Grey Gloss |
 | White | #FFFFFF | 255 255 255 | 0 0 0 0 | |
 | Mist (tint) | #EEF0F1 | 238 240 241 | | Light fills in documents only |
+
+Colour split (decision 63eb9abc, 12 Nov 2026): on any layout, such as a document, vehicle, booth or uniform, use 60% carbon, 30% concrete and 10% hi-vis lime. Lime is the loud 10% and still only goes on carbon.
 
 Vinyl matches come from the vinyl-colour-match data (supplier swatch photos and published CMYK). Check a physical swatch before ordering. No Pantone references are set yet; pick them from a physical swatch book.
 

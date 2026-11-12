@@ -27,6 +27,10 @@ PNGs are cut from the PDF at 150 dpi of a very large page, so they are 4465 px w
 | Mist | #EEF0F1 | Light fills: table banding, note boxes |
 | Muted | #5A6065 | Labels, captions, header and footer text |
 
+Colour split (decision 63eb9abc, 12 Nov 2026): on any layout, use 60% carbon, 30% concrete and 10% hi-vis lime. White, mist and muted are neutrals for paper and text, not part of the split.
+
+Stacked logo (decision 32d54f76, 12 Nov 2026): the mark is 3 times the wordmark height, and the gap is a third of the wordmark height. The kit files follow this.
+
 ## Type
 
 Barlow Condensed Bold for headings, Barlow for body. Both are free Google fonts. If a PC does not have them, Word substitutes another font and the layout shifts slightly; install them from Google Fonts on any PC that edits these documents. The wordmark in the logo is artwork, not a font.
