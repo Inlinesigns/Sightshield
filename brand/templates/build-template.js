@@ -10,8 +10,8 @@ const HEAD = 'Barlow Condensed', BODY = 'Barlow';
 const PAGE_W = 11906, MARGIN = 1134, CONTENT = PAGE_W - 2 * MARGIN; // A4, 20 mm margins
 const LOGO_RATIO = 4465 / 608;
 
-const logoCarbon = fs.readFileSync('sightshield-logo-carbon.png');
-const logoWhite = fs.readFileSync('sightshield-logo-white.png');
+const logoCarbon = fs.readFileSync('emb-carbon.png');
+const logoWhite = fs.readFileSync('emb-white.png');
 
 const none = { style: BorderStyle.NONE, size: 0, color: 'FFFFFF' };
 const noBorders = { top: none, bottom: none, left: none, right: none, insideHorizontal: none, insideVertical: none };

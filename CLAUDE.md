@@ -18,6 +18,10 @@ SightShield Pty Ltd (name pending ASIC) is Zac Mackenzie's second company. It su
 - Working logo (12 Nov 2026, not final): Zac's shield mark with the SIGHT SHIELD wordmark, from CorelDRAW. Colours carbon #1B1C1E, hi-vis lime #D4FF00 (accent on carbon only), concrete #C8CCCF. Type Barlow Condensed and Barlow. Files and the Word document template are in `brand/`. Use the template for any SightShield document.
 - Target: trial as soon as onboarded, fully operational and certified by mid-2028 (end of FY27/28). Six dated stages in `docs/06-stages-roadmap.md`. Stage 0 (site requirements in writing) is the current blocker.
 
+## Where files go
+
+Every SightShield file is saved in OneDrive under BUSINESS FILES\SightShield, in the workstream folder it belongs to (00 Admin to 06 Commercial, each with 1 Inputs, 2 Working, 3 Final). Never in Mackenzie & Brown or In Line Signs folders (decision c437334a, 12 Nov 2026). This repo is Claude's working memory and everything in it is also copied there. Layout and folder ids: `docs/08-onedrive-layout.md`.
+
 ## People
 
 Zac Mackenzie (founder, 0491 709 002, info@inlinesigns.com.au). Tania Gray (accountant, Beveridge Carey). Rhani Hills (Glencore). Kathie Barratt (PSC). Adrian Brown (Zac's husband). On Point Safety (WHS).
@@ -41,4 +45,5 @@ Zac Mackenzie (founder, 0491 709 002, info@inlinesigns.com.au). Tania Gray (acco
 - `docs/05-project-instructions.md` the claude.ai project instructions, verbatim, with two discrepancies flagged
 - `docs/06-stages-roadmap.md` the dated six-stage plan to mid-2028 with status against each stage
 - `docs/07-roadmap-audit.md` suggested adjustments to the plan, the Rhani call plan, and this week's actions
+- `docs/08-onedrive-layout.md` the OneDrive folder layout and what is in it
 - `brand/` working logo files, colours, type and the branded Word document template

@@ -16,6 +16,7 @@ As at 30 Oct 2026. Decisions first, then what is waiting on whom.
 | 15 Oct 2026 | Patent not pursued now. A short consult with Tania's Brisbane patent lawyer is acceptable. | Tania call |
 | 4 Oct 2026 | Start with AutoTriz windscreen film. Own-brand film and cleaner later. | Pocket note |
 | 4 Oct 2026 | Build so a manager can run it. Zac does one site to fund the hire. | Pocket note |
+| 12 Nov 2026 | Every SightShield file is saved in OneDrive under BUSINESS FILES\SightShield, by workstream folder. Never in Mackenzie & Brown or In Line Signs folders. The repo is copied there too. Logged as decision c437334a. | This session |
 | 30 Oct 2026 | SightShield is shown on In Line Signs material as a chosen supplier brand, listed with 3M, Hexis, AutoTriz and BUSHWRAPZ wherever brands are mentioned, never as an In Line Signs brand. Applies everywhere brands are mentioned. Website waits until there is film to sell. Logged as decision 908f575f. | This session |
 
 ## Waiting on others

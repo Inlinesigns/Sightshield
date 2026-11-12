@@ -11,7 +11,7 @@ Set 12 Nov 2026. The logo is Zac's working version from CorelDRAW and may still 
 | `logo/sightshield-logo-white.png` | Full lockup in white on transparent. Carbon or photo backgrounds. |
 | `logo/sightshield-mark-carbon.png`, `logo/sightshield-mark-white.png` | Shield mark alone. Small spaces, icons, film-edge labels. |
 
-PNGs are cut from the PDF at 150 dpi of a very large page, so they are 4465 px wide for the lockup. For cut vinyl or print, use the Corel master, not the PNGs.
+PNGs are cut from the PDF at 150 dpi of a very large page, so they are 4465 px wide for the lockup, saved with a reduced palette to keep them small with no visible change. For cut vinyl or print, use the Corel master, not the PNGs.
 
 ## Colour
 
@@ -35,4 +35,4 @@ What it has: a carbon cover block with the white logo, title, one-line subtitle 
 
 Placeholders are in square brackets. Replace `[DOCUMENT TITLE]` in both the cover and the page header. The footer ABN reads "[to come]" until Beveridge Carey confirms it.
 
-To rebuild after a change: `node brand/templates/build-template.js` from a folder that holds the logo PNGs (the script reads them by file name).
+To rebuild after a change: run `node build-template.js` in a folder that holds `emb-carbon.png` and `emb-white.png` (the lockup at 1600 px wide, reduced palette).
