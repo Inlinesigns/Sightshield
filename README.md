@@ -15,3 +15,4 @@ This repository is the build home for the business. Start with `CLAUDE.md`, then
 | `docs/05-project-instructions.md` | The claude.ai project instructions, verbatim, with discrepancies flagged |
 | `docs/06-stages-roadmap.md` | Dated six-stage plan to mid-2028 with status against each stage |
 | `docs/07-roadmap-audit.md` | Suggested adjustments, the Rhani call plan, this week's actions |
+| `brand/` | Working logo, colours, type and the branded Word document template |

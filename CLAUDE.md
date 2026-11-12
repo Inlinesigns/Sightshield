@@ -15,7 +15,7 @@ SightShield Pty Ltd (name pending ASIC) is Zac Mackenzie's second company. It su
 - Glencore contact Rhani Hills owes test assemblies and the site's onboarding requirements. Nothing received yet. Zac is calling her on 31 Oct.
 - Branding is background work. It never takes time from anything important. Exception: the PPF booth wrap (cut in black vinyl in house, booth up by about 6 Nov 2026) needs the mark and wordmark as a one-colour cut file, after a name check on ASIC and IP Australia.
 - Standing rule (decided 30 Oct 2026, decision 908f575f in the In Line Signs decisions table): on In Line Signs material SightShield is a chosen supplier brand, listed with 3M, Hexis, AutoTriz and BUSHWRAPZ wherever the brands In Line Signs uses are mentioned, never as an In Line Signs brand. Website update is on hold until SightShield has film to sell.
-- Logo direction chosen (Round 3 "Held", carbon and hi-vis lime, Barlow Semi Condensed) but not final.
+- Working logo (12 Nov 2026, not final): Zac's shield mark with the SIGHT SHIELD wordmark, from CorelDRAW. Colours carbon #1B1C1E, hi-vis lime #D4FF00 (accent on carbon only), concrete #C8CCCF. Type Barlow Condensed and Barlow. Files and the Word document template are in `brand/`. Use the template for any SightShield document.
 - Target: trial as soon as onboarded, fully operational and certified by mid-2028 (end of FY27/28). Six dated stages in `docs/06-stages-roadmap.md`. Stage 0 (site requirements in writing) is the current blocker.
 
 ## People
@@ -41,3 +41,4 @@ Zac Mackenzie (founder, 0491 709 002, info@inlinesigns.com.au). Tania Gray (acco
 - `docs/05-project-instructions.md` the claude.ai project instructions, verbatim, with two discrepancies flagged
 - `docs/06-stages-roadmap.md` the dated six-stage plan to mid-2028 with status against each stage
 - `docs/07-roadmap-audit.md` suggested adjustments to the plan, the Rhani call plan, and this week's actions
+- `brand/` working logo files, colours, type and the branded Word document template
