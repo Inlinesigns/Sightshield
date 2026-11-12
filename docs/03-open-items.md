@@ -34,7 +34,7 @@ As at 30 Oct 2026. Decisions first, then what is waiting on whom.
 
 | Action | Depends on |
 | --- | --- |
-| Call or email Kathie Barratt (PSC, 02 6722 4300) about public liability, product liability and workers comp for SightShield | Nothing. Can start now; cover goes live once the company exists. |
+| Call or email Kathie Barratt (PSC, 02 6722 4300) about public liability, product liability and workers comp for SightShield | Booked: appointment the week of 16 Nov 2026. Cover needed before onboarding finishes in early December. |
 | Open a business bank account and card for SightShield | ACN and ABN |
 | Create the SightShield Xero file and connect it to Claude | ABN |
 | Give On Point Safety the final entity name so safety docs can start | ASIC acceptance of the name |

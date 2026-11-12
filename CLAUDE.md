@@ -11,7 +11,7 @@ SightShield Pty Ltd (name pending ASIC) is Zac Mackenzie's second company. It su
 - Company registered: SIGHTSHIELD PTY LTD (one word), ACN 703 567 551, ABN 32 703 567 551, GST registered from 26 Oct 2026 (ABN Lookup, 12 Nov). Signed company documents returned 10 Nov (Annature, maczac07 Gmail). Bank account still to open.
 - Beveridge Carey set-up invoice INV-21689 ($1,540) paid 11 Nov by QuickFee, ref 1187706.
 - 120 shares to Zac alone. No trust. Funds contributed personally, no inter-company loans.
-- Insurance broker to contact: Kathie Barratt, PSC Insurance, Inverell. Not yet contacted as of 12 Nov (unconfirmed).
+- Insurance broker to contact: Kathie Barratt, PSC Insurance, Inverell. Insurance appointment booked for the week of 16 Nov 2026 (Zac, 12 Nov). Needed for onboarding by early December.
 - Safety docs by On Point Safety, Moree. Name is now final, so this can start.
 - Glencore contact Rhani Hills (rhani.hills@hotmail.com) owes test assemblies and the site's onboarding requirements. Nothing received. She was not available for the 31 Oct call. Email asking for a call or Zoom drafted 12 Nov in Zac's Gmail.
 - PPF booth wrap not done yet.
