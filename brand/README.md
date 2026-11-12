@@ -24,7 +24,7 @@ PNGs are cut from the PDF at 150 dpi of a very large page, so they are 4465 px w
 | Carbon | #1B1C1E | Logo, headings, body text, cover block, table headers |
 | Hi-vis Lime | #D4FF00 | Accent only, and only on carbon. Never text on white: it cannot be read. |
 | Concrete | #C8CCCF | Rules, secondary text on carbon |
-| Mist | #EEF0F1 | Light fills. Not used in Round 2 documents, which use concrete for note boxes and title blocks |
+| Mist | #EEF0F1 | Lighter option to concrete for fills: note boxes, table bands, panels (decision 328a1813, 12 Nov 2026). A neutral, outside the split |
 | Muted | #5A6065 | Section numbers, captions, header reference |
 | Graphite | #3A3C40 | Secondary body text and labels on white or concrete (Round 2 documents) |
 

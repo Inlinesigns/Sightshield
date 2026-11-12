@@ -32,7 +32,7 @@ The mark is one compound shape: the square with the shield cut out and the rays 
 | Hi-vis Lime | #D4FF00 | 212 255 0 | 17 0 100 0, prints duller | No standard match; needs a fluorescent film |
 | Concrete | #C8CCCF | 200 204 207 | 3 1 0 19 | Metamark M7-122 Pale Grey; ImagePerfect IP5710 Pearl Grey Gloss; Hexis S5428B Cloud Grey Gloss |
 | White | #FFFFFF | 255 255 255 | 0 0 0 0 | |
-| Mist (tint) | #EEF0F1 | 238 240 241 | | Light fills in documents only |
+| Mist (tint) | #EEF0F1 | 238 240 241 | | Lighter option to concrete for fills (decision 328a1813) |
 
 Colour split (decision 63eb9abc, 12 Nov 2026): on any layout, such as a document, vehicle, booth or uniform, use 60% carbon, 30% concrete and 10% hi-vis lime. Lime is the loud 10% and still only goes on carbon.
 
