@@ -46,4 +46,5 @@ Zac Mackenzie (founder, 0491 709 002, info@inlinesigns.com.au). Tania Gray (acco
 - `docs/06-stages-roadmap.md` the dated six-stage plan to mid-2028 with status against each stage
 - `docs/07-roadmap-audit.md` suggested adjustments to the plan, the Rhani call plan, and this week's actions
 - `docs/08-onedrive-layout.md` the OneDrive folder layout and what is in it
+- `docs/09-handover.md` handover from the first cloud session to a desktop session: unfinished file moves and questions for Zac
 - `brand/` working logo files, colours, type and the branded Word document template
