@@ -22,6 +22,7 @@ What is where on 12 Nov 2026:
 | 00 Admin\3 Final | Claude working memory, business brief, source log, Cowork audit, open items, build roadmap, project instructions, stages roadmap, roadmap audit, this layout note |
 | 01 Entity and Accounts\3 Final | SS – Accountant Meeting Agenda (docx and pdf) |
 | 05 Brand\3 Final | SightShield Document Template (.dotx), logo and mark PNGs in carbon and white, brand reference |
+| 05 Brand\3 Final\Logo and colour kit | Kit README now; the full kit (SVG, PNG, PDF sheet) to be dropped in from the zip |
 
 Not copied, and why:
 - The logo source PDF is Zac's own Corel export and lives with the Corel master. A copy is in the repo under `brand/logo/`.

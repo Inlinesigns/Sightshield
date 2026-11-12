@@ -2,7 +2,11 @@
 
 Set 12 Nov 2026. The logo is Zac's working version from CorelDRAW and may still change. The colours come from the logo canvas (Round 3 onwards). Everything here is for documents that need to look branded now.
 
-## Logo
+## Logo and colour kit
+
+`kit/` is the working logo and colour kit (12 Nov 2026): vector SVGs and transparent PNGs of the horizontal logo, stacked logo, mark and wordmark in carbon, white, lime and lime-white, plus a two-page PDF sheet with colours, closest vinyls, clear space and minimum sizes. Start with `kit/README.md`. The files below are the first cut from 12 Nov and are kept for the Word template.
+
+## Logo (first cut)
 
 | File | Use |
 | --- | --- |
