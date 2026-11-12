@@ -41,6 +41,6 @@ Barlow Condensed Bold for headings, Barlow for body. Both are free Google fonts.
 
 What it has: a carbon cover block with the white logo, title, one-line subtitle and a lime stripe; a details table (prepared for, reference, prepared by, date); Heading 1, 2 and 3 styles; square bullets; numbered steps; a data table with a carbon header row that repeats across pages; a note box; the logo and document title in the header from page 2; company line and page numbers in the footer.
 
-Placeholders are in square brackets. Replace `[DOCUMENT TITLE]` in both the cover and the page header. The footer ABN reads "[to come]" until Beveridge Carey confirms it.
+Placeholders are in square brackets. Replace `[DOCUMENT TITLE]` in both the cover and the page header. The footer shows ABN 32 703 567 551 (added 12 Nov 2026).
 
 To rebuild after a change: run `node build-template.js` in a folder that holds `emb-carbon.png` and `emb-white.png` (the lockup at 1600 px wide, reduced palette).

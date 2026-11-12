@@ -128,7 +128,7 @@ const header = new Header({ children: [
 ] });
 const footer = new Footer({ children: [
   hfTable(
-    new Paragraph({ style: 'SSFooter', spacing: { before: 100, after: 0 }, children: [t('SightShield Pty Ltd  ·  ABN [to come]  ·  Moree NSW  ·  0491 709 002', small)] }),
+    new Paragraph({ style: 'SSFooter', spacing: { before: 100, after: 0 }, children: [t('SightShield Pty Ltd  ·  ABN 32 703 567 551  ·  Moree NSW  ·  0491 709 002', small)] }),
     new Paragraph({ style: 'SSFooter', alignment: AlignmentType.RIGHT, spacing: { before: 100, after: 0 }, children: [
       t('Page ', small), new TextRun({ font: BODY, ...small, children: [PageNumber.CURRENT] }),
       t(' of ', small), new TextRun({ font: BODY, ...small, children: [PageNumber.TOTAL_PAGES] }) ] }),
