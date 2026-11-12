@@ -1,4 +1,4 @@
-# Sight Shield: business brief
+# SightShield: business brief
 
 Compiled 30 Oct 2026 from Zac's emails, Pocket voice notes, Claude docs, the logo canvas, SharePoint and the Sight Shield project instructions (`05-project-instructions.md`). Every fact below is traced in `01-source-log.md`. Nothing here is invented; where something is unconfirmed it says so.
 
@@ -80,7 +80,7 @@ Update 12 Nov 2026: Zac's own working logo from CorelDRAW (a shield mark with th
 
 ## Estate note
 
-A Pocket note on 21 Oct ("Will and estate planning notes", Ideas space) records Zac's intention for who should inherit Sight Shield. It is a draft for a lawyer, not a decision. The detail stays in Pocket and OneDrive, not in this repo. It should inform how shares are issued and the constitution is written.
+A Pocket note on 21 Oct ("Will and estate planning notes", Ideas space) records Zac's intention for who should inherit SightShield. It is a draft for a lawyer, not a decision. The detail stays in Pocket and OneDrive, not in this repo. It should inform how shares are issued and the constitution is written.
 
 ## People
 

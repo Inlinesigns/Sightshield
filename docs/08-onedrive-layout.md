@@ -20,7 +20,7 @@ What is where on 12 Nov 2026:
 | Folder | Files |
 | --- | --- |
 | 00 Admin\3 Final | Claude working memory, business brief, source log, Cowork audit, open items, build roadmap, project instructions, stages roadmap, roadmap audit, this layout note |
-| 01 Entity and Accounts\3 Final | SS – Accountant Meeting Agenda (docx and pdf) |
+| 01 Entity and Accounts\3 Final | SightShield accountant meeting agenda (docx and pdf, Round 2 style) |
 | 05 Brand\3 Final | SightShield Document Template (.dotx), logo and mark PNGs in carbon and white, brand reference |
 | 05 Brand\3 Final\Logo and colour kit | Kit README now; the full kit (SVG, PNG, PDF sheet) to be dropped in from the zip |
 

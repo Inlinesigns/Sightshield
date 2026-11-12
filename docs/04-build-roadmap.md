@@ -1,6 +1,6 @@
 # Build roadmap
 
-What has to exist for Sight Shield to operate, in the order the dependencies allow. This is the "everything needs building" list. It is drawn from the staged plan in the Stage 0 doc, the accountant agenda, the project's six workstreams (`05-project-instructions.md`) and what In Line Signs already has that Sight Shield does not. It is a proposal for Zac to edit, not a decision.
+What has to exist for SightShield to operate, in the order the dependencies allow. This is the "everything needs building" list. It is drawn from the staged plan in the Stage 0 doc, the accountant agenda, the project's six workstreams (`05-project-instructions.md`) and what In Line Signs already has that SightShield does not. It is a proposal for Zac to edit, not a decision.
 
 ## How the sections map to the project workstreams
 
@@ -49,7 +49,7 @@ The project's order is: company and compliance scaffolding, then trial and clean
 
 1. Start-up cost list and a per-vehicle cost model from the roll economics (about 80 vehicles per $2,000 roll, about $260 plus per vehicle supply and install).
 2. Pricing in the format the site buys in (tender, preferred supplier or purchase order).
-3. Quote, SWMS and warranty document templates in the Sight Shield brand.
+3. Quote, SWMS and warranty document templates in the SightShield brand.
 4. Two-year warranty terms in writing.
 5. Re-film schedule so each site is booked again at two years.
 
@@ -63,7 +63,7 @@ The project's order is: company and compliance scaffolding, then trial and clean
 
 ## F. Systems on the Claude side
 
-1. Sight Shield working memory (this repo's `CLAUDE.md`, grown into a Brand Brain equivalent).
+1. SightShield working memory (this repo's `CLAUDE.md`, grown into a Brand Brain equivalent).
 2. OneDrive folder BUSINESS FILES\SightShield set up by workstream (done 12 Nov 2026, see `08-onedrive-layout.md`).
 3. Supabase project and Netlify site when there is an app or website to host.
 4. Skills worth building once the business has rhythm: trial inspection logger, site job sheet and photo log, warranty and re-film reminder, R&D diary capture from Pocket, quote template filler.
@@ -73,4 +73,4 @@ The project's order is: company and compliance scaffolding, then trial and clean
 
 1. SOPs for measure, cut, install, inspect and warranty.
 2. A manager role description and the profit share or equity mechanism, decided with Tania before it is offered.
-3. Everything in Sight Shield's own systems so none of it depends on In Line Signs access.
+3. Everything in SightShield's own systems so none of it depends on In Line Signs access.

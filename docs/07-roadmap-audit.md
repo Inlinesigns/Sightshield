@@ -59,7 +59,7 @@ Done when: certificates of currency are in hand (unchanged).
 
 - **Pricing shape.** The two-year re-film cycle is the business. Price per mirror with a per-visit mobilisation fee for site work, and quote a per-machine-per-year figure alongside, because that is the number the site compares with its replacement spend. Decide after the trial, model it now from the roll economics.
 - **Warranty.** Two years is the manufacturer's optical clarity figure, not SightShield's tested figure. Write the warranty to what the trial shows, with normal cleaning defined (which cleaner, how often) so the warranty and the cleaner sell each other.
-- **Brand, done in the background.** Zac has said branding is chipped away at and never takes time from anything important. Agreed, with one exception: a free IP Australia trade mark search on "SightShield" and "Sight Shield" in the relevant classes should happen in Stage 1, not Stage 4. If the name is taken, finding out after insurance certificates, prequal profiles and safety documents carry it means redoing all of them. Fifteen minutes now, filing later.
+- **Brand, done in the background.** Zac has said branding is chipped away at and never takes time from anything important. Agreed, with one exception: a free IP Australia trade mark search on "SightShield" and "SightShield" in the relevant classes should happen in Stage 1, not Stage 4. If the name is taken, finding out after insurance certificates, prequal profiles and safety documents carry it means redoing all of them. Fifteen minutes now, filing later.
 - **Domain.** Check availability at the same time as the trade mark search, for the same reason.
 
 ## Stage 5: build-out and handover

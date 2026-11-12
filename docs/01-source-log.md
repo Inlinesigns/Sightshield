@@ -1,6 +1,6 @@
 # Source log
 
-Where every piece of Sight Shield information was found on 30 Oct 2026, so it can be re-read or updated. Items are newest first within each source.
+Where every piece of SightShield information was found on 30 Oct 2026, so it can be re-read or updated. Items are newest first within each source.
 
 ## Email (Outlook, info@inlinesigns.com.au, and Gmail, maczac07@gmail.com)
 
@@ -23,7 +23,7 @@ Gmail also holds "FW: Company Debt Reminder" (Zac to Tania) which relates to Mac
 | 15 Oct 2026, 7:32 am | Site Shield company setup call | Phone call with Tania. Decisions: no trust, separate company, 120 shares to Zac, funds contributed personally, own Xero, Zac on payroll, workers comp via icare, R&D treatment and record keeping, travel categories, patent consult suggestion, Glencore figures, roll economics, startup costs small. Tania to order the company that day. |
 | 4 Oct 2026, 10:06 am | New mining windscreen protection business | The original idea: product, problem, warranty, own-brand film and cleaner later, ISO goal, 1.75 year build horizon. |
 
-Also relevant, in the "Ideas" space: 21 Oct 2026, "Will and estate planning notes" (succession intention for Sight Shield). Its Pocket export (summary, transcript, mind map) is in OneDrive under Documents/Pocket/Conversations/2026-10-20/.
+Also relevant, in the "Ideas" space: 21 Oct 2026, "Will and estate planning notes" (succession intention for SightShield). Its Pocket export (summary, transcript, mind map) is in OneDrive under Documents/Pocket/Conversations/2026-10-20/.
 
 ## Claude docs and artifacts
 
@@ -34,7 +34,7 @@ Also relevant, in the "Ideas" space: 21 Oct 2026, "Will and estate planning note
 | SS – Accountant Brief – Ownership Structure (doc) | https://claude.ai/artifact/PS3fwFAHo9DXVm7UKVccVK | 4 Oct 2026 | The two businesses compared, three ownership options, preferred trust structure (since dropped), seven questions for Tania, timing and constraints. |
 | SS – Stage 0 – Site Onboarding Requirements (doc) | https://claude.ai/artifact/6rPFFBfwdwu3sBG5j64rms | 4 Oct 2026 | 21 questions for the site, requirements table (all "Not asked"), proposed trial success criteria, what each answer decides, contact log. |
 
-No other artifact in the account is about Sight Shield. The In Line Signs Brand Brain and the In Line Signs on Claude audit mention it only as a separate business.
+No other artifact in the account is about SightShield. The In Line Signs Brand Brain and the In Line Signs on Claude audit mention it only as a separate business.
 
 ## SharePoint / OneDrive (info@inlinesigns.com.au)
 
@@ -48,7 +48,7 @@ As found on 30 Oct 2026. Superseded on 12 Nov 2026: the CLAUDE WORKSPACE folder 
 | .../00 - Workspace Admin/In Line Signs - Brand Brain (Claude).md | Lists SightShield as a separate business. |
 | Documents/Pocket/Conversations/2026-10-20/Will and estate planning notes/ | Pocket export of the estate note. |
 
-## Systems checked that hold nothing for Sight Shield
+## Systems checked that hold nothing for SightShield
 
 | System | Result |
 | --- | --- |
@@ -57,6 +57,6 @@ As found on 30 Oct 2026. Superseded on 12 Nov 2026: the CLAUDE WORKSPACE folder 
 | Netlify | Two sites: inlinesigns, inlinesigns-jobsheets. None for SightShield. |
 | GitHub | This repository, one commit, README only. |
 | Slack | Search returned nothing. The workspace appears empty. |
-| Google Calendar | No events mention Sight Shield. |
+| Google Calendar | No events mention SightShield. |
 | Google Drive | The connector failed to authenticate in this session, so Drive was not searched. |
 | Zapier, Composio | Not searched; nothing was expected there. |

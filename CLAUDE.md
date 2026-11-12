@@ -1,4 +1,4 @@
-# Sight Shield: working memory for Claude
+# SightShield: working memory for Claude
 
 Read this first in any session on this repository. Full detail is in `docs/`.
 
@@ -20,7 +20,7 @@ SightShield Pty Ltd (name pending ASIC) is Zac Mackenzie's second company. It su
 - GitHub branch claude/sight-shield-audit-info-untbti merged to main 12 Nov.
 - Branding is background work. It never takes time from anything important. Exception: the PPF booth wrap (cut in black vinyl in house, booth up by about 6 Nov 2026) needs the mark and wordmark as a one-colour cut file, after a name check on ASIC and IP Australia.
 - Standing rule (decided 30 Oct 2026, decision 908f575f in the In Line Signs decisions table): on In Line Signs material SightShield is a chosen supplier brand, listed with 3M, Hexis, AutoTriz and BUSHWRAPZ wherever the brands In Line Signs uses are mentioned, never as an In Line Signs brand. Website update is on hold until SightShield has film to sell.
-- Working logo (12 Nov 2026, not final): Zac's shield mark with the SIGHT SHIELD wordmark, from CorelDRAW. Colours carbon #1B1C1E, hi-vis lime #D4FF00 (accent on carbon only), concrete #C8CCCF. Layouts use a 60/30/10 split: carbon, concrete, lime (decision 63eb9abc); on white paper it counts the printed area only (89c03fc0); install tools swap it to 60 lime, 30 concrete, 10 carbon (46e06776). Stacked logo: mark 3x wordmark height, gap 1/3 (decision 32d54f76). Type Barlow Condensed and Barlow. Files and the Word document template are in `brand/`. Use the latest brand revision on everything unless Zac says otherwise (decision 101632bd); the latest is Round 2 refined, and the company overview in 06 Commercial is the reference build for documents. The Word template in brand/ predates Round 2.
+- Working logo (12 Nov 2026, not final): Zac's shield mark with the SIGHT SHIELD wordmark, from CorelDRAW. Colours carbon #1B1C1E, hi-vis lime #D4FF00 (accent on carbon only), concrete #C8CCCF. Layouts use a 60/30/10 split: carbon, concrete, lime (decision 63eb9abc); on white paper it counts the printed area only (89c03fc0); install tools swap it to 60 lime, 30 concrete, 10 carbon (46e06776). Stacked logo: mark 3x wordmark height, gap 1/3 (decision 32d54f76). Type Barlow Condensed and Barlow. Files and the Word document template are in `brand/`. Use the latest brand revision on everything unless Zac says otherwise (decision 101632bd); the latest is Round 2 refined, and the company overview in 06 Commercial is the reference build for documents. The Word template, the logo and colour kit sheet and the accountant agenda were rebuilt in Round 2 on 12 Nov 2026 (brand audit). Document numbers: SS-0001 company overview, SS-0002 accountant meeting agenda.
 - Target: trial as soon as onboarded, fully operational and certified by mid-2028 (end of FY27/28). Six dated stages in `docs/06-stages-roadmap.md`. Stage 0 (site requirements in writing) is the current blocker.
 
 ## Where files go
@@ -38,13 +38,13 @@ Zac Mackenzie (founder, 0491 709 002, info@inlinesigns.com.au). Tania Gray (acco
 - Emails: no exclamation marks, no emoji, no markdown, no sign-off, never offer a phone call.
 - When Zac states a new price, cost, rule or process, run the decision skill before changing anything, and ask whether it is a standard or a one-off if unclear. Never log or change anything without his yes.
 - Do not invent product specs, prices or site requirements. Mark anything unconfirmed as unconfirmed.
-- Sensitive: the estate note (Sight Shield succession) stays out of this repo and any shared document unless Zac asks.
+- Sensitive: the estate note (SightShield succession) stays out of this repo and any shared document unless Zac asks.
 
 ## Repository layout
 
 - `docs/00-business-brief.md` everything known about the business
 - `docs/01-source-log.md` where each fact came from, with links
-- `docs/02-cowork-audit.md` what the Claude account has and what Sight Shield lacks
+- `docs/02-cowork-audit.md` what the Claude account has and what SightShield lacks
 - `docs/03-open-items.md` decisions, waiting-on list, Zac's actions, open questions
 - `docs/04-build-roadmap.md` the full build list in dependency order
 - `docs/05-project-instructions.md` the claude.ai project instructions, verbatim, with two discrepancies flagged

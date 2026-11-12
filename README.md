@@ -7,7 +7,7 @@ This repository is the build home for the business. Start with `CLAUDE.md`, then
 | File | What it is |
 | --- | --- |
 | `CLAUDE.md` | Working memory: what the business is, where it stands, how to work with Zac |
-| `docs/00-business-brief.md` | Everything known about Sight Shield as at 30 Oct 2026 |
+| `docs/00-business-brief.md` | Everything known about SightShield as at 30 Oct 2026 |
 | `docs/01-source-log.md` | Where each fact came from (emails, Pocket notes, Claude docs, SharePoint) |
 | `docs/02-cowork-audit.md` | Audit of the Claude Cowork account: connectors, plugins, skills, infrastructure |
 | `docs/03-open-items.md` | Decisions made, who owes what, Zac's actions, open questions |

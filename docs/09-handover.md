@@ -48,7 +48,7 @@ Most of `docs/03-open-items.md` was last updated on 30 Oct. Ask Zac for updates 
 
 - The logo is Zac's working version from CorelDRAW: a shield mark with radiating rays in a rounded square, plus the SIGHT SHIELD wordmark. It is not final.
 - The colours are carbon #1B1C1E, hi-vis lime #D4FF00 and concrete #C8CCCF. Lime goes on carbon only, never as text on white.
-- Type is Barlow Condensed Bold for headings and Barlow for body text.
+- Type (Round 2): Barlow Condensed headings in capitals, Barlow Condensed Bold spaced-capital labels, Barlow body text.
 - Closest vinyls: Hexis HXS5889M Coal Black Matt for carbon and Metamark M7-122 Pale Grey for concrete. Hi-vis lime has no standard match. It needs a fluorescent film, so check a swatch with Spicers.
 - Cut vinyl minimums: horizontal logo 200 mm wide, mark alone 30 mm.
 - In the kit files the shield is cut cleanly out of the square. Zac's Corel master still has the shield poking above the square, hidden by the black background. Tell him if he exports a new cut file straight from Corel.
@@ -68,7 +68,7 @@ Most of `docs/03-open-items.md` was last updated on 30 Oct. Ask Zac for updates 
 - Run the decision skill before changing anything when Zac states a new price, cost, rule or process. Ask whether it is a standard or a one-off. Nothing is logged or changed without his yes.
 - Every SightShield file is saved in `BUSINESS FILES\SightShield`, never in Mackenzie & Brown or In Line Signs folders.
 - On In Line Signs material, SightShield appears as a supplier brand, like 3M, Hexis, AutoTriz and BUSHWRAPZ. The website listing waits until there is film to sell.
-- Use the Word template for any SightShield document.
+- Use the Word template (Round 2, rebuilt 12 Nov 2026) for any SightShield document.
 - Australian spelling and no em or en dashes. Emails have no exclamation marks, emoji, markdown or sign-off, and never offer a phone call.
 - Keep the estate note out of documents unless Zac asks.
 - Do not invent specs, prices or site requirements. Mark anything unconfirmed.
