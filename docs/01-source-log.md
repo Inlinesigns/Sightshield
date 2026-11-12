@@ -38,6 +38,8 @@ No other artifact in the account is about Sight Shield. The In Line Signs Brand 
 
 ## SharePoint / OneDrive (info@inlinesigns.com.au)
 
+As found on 30 Oct 2026. Superseded on 12 Nov 2026: the CLAUDE WORKSPACE folder is gone and the Mackenzie & Brown copy of the agenda is deleted. Current layout is in `08-onedrive-layout.md`.
+
 | Path | What it holds |
 | --- | --- |
 | Documents/BUSINESS FILES/SightShield/CLAUDE WORKSPACE/ | Only the agenda docx and pdf. This is the designated separate workspace for SightShield. |

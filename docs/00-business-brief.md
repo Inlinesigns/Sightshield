@@ -74,7 +74,9 @@ The logo canvas "SS – Sight Shield Logo" (updated 30 Oct) has five rounds. Not
 - **Round 4.** Alternative simple marks in the same colours (slit, hex lens, side mirror, deflect, block S, bracket).
 - **Round 5, latest.** "Held" without the starburst: chip, crack, scratch, dot variants. 06A Chip is "the bullseye stone chip, stopped".
 
-Tagline used on the canvas: "Glass & Mirror Protection". Placeholder quote layout uses references like SS-0000 and a two-year warranty line.
+Tagline used on the canvas: "Glass & Mirror Protection".
+
+Update 12 Nov 2026: Zac's own working logo from CorelDRAW (a shield mark with the SIGHT SHIELD wordmark) replaces these rounds for now, in the same carbon, lime and concrete. Not final. See `brand/README.md`. Placeholder quote layout uses references like SS-0000 and a two-year warranty line.
 
 ## Estate note
 
