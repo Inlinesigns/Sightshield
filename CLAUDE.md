@@ -6,16 +6,20 @@ Read this first in any session on this repository. Full detail is in `docs/`.
 
 SightShield Pty Ltd (name pending ASIC) is Zac Mackenzie's second company. It supplies and installs optically clear impact and scratch protection film on the mirrors and glass of mining machinery, with a Tier 1 Glencore site lined up for a trial. It is separate from In Line Signs (Mackenzie & Brown Co Pty Ltd) in every way: own entity, insurances, Xero, bank, files and brand. Never mix the two.
 
-## Where things stand (30 Oct 2026)
+## Where things stand (12 Nov 2026)
 
-- Company ordered through Beveridge Carey on 15 Oct. ABN, GST and bank still to come.
+- Company registered: SIGHTSHIELD PTY LTD (one word), ACN 703 567 551, ABN 32 703 567 551, GST registered from 26 Oct 2026 (ABN Lookup, 12 Nov). Signed company documents returned 10 Nov (Annature, maczac07 Gmail). Bank account still to open.
+- Beveridge Carey set-up invoice INV-21689 ($1,540) paid 11 Nov by QuickFee, ref 1187706.
 - 120 shares to Zac alone. No trust. Funds contributed personally, no inter-company loans.
-- Insurance broker to contact: Kathie Barratt, PSC Insurance, Inverell.
-- Safety docs by On Point Safety, Moree, once the name is final.
-- Glencore contact Rhani Hills owes test assemblies and the site's onboarding requirements. Nothing received yet. Zac is calling her on 31 Oct.
+- Insurance broker to contact: Kathie Barratt, PSC Insurance, Inverell. Not yet contacted as of 12 Nov (unconfirmed).
+- Safety docs by On Point Safety, Moree. Name is now final, so this can start.
+- Glencore contact Rhani Hills (rhani.hills@hotmail.com) owes test assemblies and the site's onboarding requirements. Nothing received. She was not available for the 31 Oct call. Email asking for a call or Zoom drafted 12 Nov in Zac's Gmail.
+- PPF booth wrap not done yet.
+- SightShield admin email currently lands in maczac07@gmail.com until a SightShield address exists.
+- GitHub branch claude/sight-shield-audit-info-untbti merged to main 12 Nov.
 - Branding is background work. It never takes time from anything important. Exception: the PPF booth wrap (cut in black vinyl in house, booth up by about 6 Nov 2026) needs the mark and wordmark as a one-colour cut file, after a name check on ASIC and IP Australia.
 - Standing rule (decided 30 Oct 2026, decision 908f575f in the In Line Signs decisions table): on In Line Signs material SightShield is a chosen supplier brand, listed with 3M, Hexis, AutoTriz and BUSHWRAPZ wherever the brands In Line Signs uses are mentioned, never as an In Line Signs brand. Website update is on hold until SightShield has film to sell.
-- Working logo (12 Nov 2026, not final): Zac's shield mark with the SIGHT SHIELD wordmark, from CorelDRAW. Colours carbon #1B1C1E, hi-vis lime #D4FF00 (accent on carbon only), concrete #C8CCCF. Type Barlow Condensed and Barlow. Files and the Word document template are in `brand/`. Use the template for any SightShield document. The logo and colour kit (SVG and PNG in every colourway, PDF sheet, closest vinyls, minimum sizes) is in `brand/kit/`. Hi-vis lime has no standard vinyl match; it needs a fluorescent film.
+- Working logo (12 Nov 2026, not final): Zac's shield mark with the SIGHT SHIELD wordmark, from CorelDRAW. Colours carbon #1B1C1E, hi-vis lime #D4FF00 (accent on carbon only), concrete #C8CCCF. Type Barlow Condensed and Barlow. Files and the Word document template are in `brand/`. Use the template for any SightShield document.
 - Target: trial as soon as onboarded, fully operational and certified by mid-2028 (end of FY27/28). Six dated stages in `docs/06-stages-roadmap.md`. Stage 0 (site requirements in writing) is the current blocker.
 
 ## Where files go
@@ -46,5 +50,4 @@ Zac Mackenzie (founder, 0491 709 002, info@inlinesigns.com.au). Tania Gray (acco
 - `docs/06-stages-roadmap.md` the dated six-stage plan to mid-2028 with status against each stage
 - `docs/07-roadmap-audit.md` suggested adjustments to the plan, the Rhani call plan, and this week's actions
 - `docs/08-onedrive-layout.md` the OneDrive folder layout and what is in it
-- `docs/09-handover.md` handover from the first cloud session to a desktop session: unfinished file moves and questions for Zac
 - `brand/` working logo files, colours, type and the branded Word document template
